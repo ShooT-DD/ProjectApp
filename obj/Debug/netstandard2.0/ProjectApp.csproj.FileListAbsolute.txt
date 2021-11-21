@@ -1,0 +1,16 @@
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.csproj.AssemblyReference.cache
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.AssemblyInfoInputs.cache
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.AssemblyInfo.cs
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.dll
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ref\ProjectApp.dll
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.pdb
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.deps.json
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.dll
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ref\ProjectApp.dll
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.pdb
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\XamlC.stamp
